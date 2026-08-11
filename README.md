@@ -137,7 +137,7 @@ Through this project, I gained practical experience in:
 | `Student_work_file_main.ipynb` | Jupyter Notebook containing the complete data processing workflow |
 | `Enterprise_Data_Architecture.pbix` | Power BI dashboard project |
 | `dashboard__.png` | Power BI dashboard screenshot |
-| `Enterprise_Data_Architecture_Internship_Project.pptx` | Internship project presentation |
+| `Enterprise_Data_Architecture_Internship_Project___.pptx` | Internship project presentation |
 
 > **Note:** Internship-provided/raw datasets are not included unless permitted for public distribution.
 
