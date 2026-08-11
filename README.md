@@ -132,8 +132,6 @@ Through this project, I gained practical experience in:
 
 ## Project Files
 
-## Project Files
-
 | File | Description |
 |---|---|
 | `Student_work_file_main.ipynb` | Jupyter Notebook containing the complete data processing workflow |
@@ -141,14 +139,12 @@ Through this project, I gained practical experience in:
 | `dashboard__.png` | Power BI dashboard screenshot |
 | `Enterprise_Data_Architecture_Internship_Project.pptx` | Internship project presentation |
 
-> Note: Internship-provided/raw datasets are not included unless permitted for public distribution.
+> **Note:** Internship-provided/raw datasets are not included unless permitted for public distribution.
 
 ---
 
 ## Author
-Meenal Upadhyay
 
-Data Analytics Internship Project
 **Meenal Upadhyay**
 
 Data Analytics Internship Project
