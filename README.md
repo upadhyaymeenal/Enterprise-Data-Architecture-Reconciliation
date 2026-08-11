@@ -102,7 +102,9 @@ The Power BI dashboard provides:
 - Interactive Month Filtering
 
 ---
+### Dashboard Preview
 
+![Power BI Dashboard](dashboard__.png)
 ## Key Results
 
 - Successfully extracted the latest active user records.
