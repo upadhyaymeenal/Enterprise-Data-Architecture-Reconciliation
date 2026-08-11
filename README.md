@@ -132,10 +132,14 @@ Through this project, I gained practical experience in:
 
 ## Project Files
 
-- `notebooks/` – Jupyter Notebook containing the data processing workflow
-- `powerbi/` – Power BI dashboard file
-- `screenshots/` – Dashboard screenshots
-- `presentation/` – Project presentation
+## Project Files
+
+| File | Description |
+|---|---|
+| `Student_work_file_main.ipynb` | Jupyter Notebook containing the complete data processing workflow |
+| `Enterprise_Data_Architecture.pbix` | Power BI dashboard project |
+| `dashboard__.png` | Power BI dashboard screenshot |
+| `Enterprise_Data_Architecture_Internship_Project.pptx` | Internship project presentation |
 
 > Note: Internship-provided/raw datasets are not included unless permitted for public distribution.
 
